@@ -12,7 +12,7 @@ To build, simply run `make`, the binary will be in `objs/bin/mtproto-proxy`:
 make && cd objs/bin
 ```
 
-1- clone the repo
+Clone the repo:
 ```bash
 git clone https://github.com/alipirpiran/telegram-MTProxy.git
 cd telegram-MTProxy
@@ -24,9 +24,9 @@ cp index.js config.json ../
 cd ..
 ```
 
-optional: edit the config file : your (port, secret, username)
+Optional: edit the config file : your (port, secret, username)
 
-run index.js
+Run index.js
 ```bash
 node index.js
 ```
