@@ -23,8 +23,9 @@ Copy files in MTProxy folder:
 cp index.js config.json ../
 cd ..
 ```
+Edit username in config.json with your username
 
-Optional: edit the config file : your (port, secret, username)
+Optional: edit the config file : your (port, secret)
 
 Run index.js
 ```bash
