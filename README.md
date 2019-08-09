@@ -1,5 +1,5 @@
 # telegram-MTProxy
-simple telegram proxy
+simple telegram proxy setup
 
 Clone the repo:
 ```bash
